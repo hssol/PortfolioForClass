@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\k\\Desktop\\CSharp\\Portfolio1\\Portfolio1.csproj",
+  "FilePath": "c:\\Users\\k\\Desktop\\CSharp\\PortfolioForClass\\Portfolio1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2948,23 +2948,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\User\\Index.cshtml",
-      "TargetPath": "Views\\User\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Home\\projects.cshtml",
-      "TargetPath": "Views\\Home\\projects.cshtml",
+      "FilePath": "Views\\Home\\Projects.cshtml",
+      "TargetPath": "Views\\Home\\Projects.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2988,8 +2978,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Home\\contact.cshtml",
-      "TargetPath": "Views\\Home\\contact.cshtml",
+      "FilePath": "Views\\Home\\Contact.cshtml",
+      "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"
     },
     {

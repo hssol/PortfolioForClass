@@ -16,19 +16,28 @@ namespace Portfolio1.Controllers
         {
             return View();
         }
+////////////////////////////////////////////////////////////////////////////////////////END OF ROUTE
         [HttpGet]
         [Route("contact")]
         public IActionResult Contact()
         {
             return View();
         }
+////////////////////////////////////////////////////////////////////////////////////////END OF ROUTE
         [HttpGet]
         [Route("projects")]
         public IActionResult Projects()
         {
             return View();
         }
-
+////////////////////////////////////////////////////////////////////////////////////////END OF ROUTE
+        [HttpGet]
+        [Route("privacy")]
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+////////////////////////////////////////////////////////////////////////////////////////END OF ROUTE
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

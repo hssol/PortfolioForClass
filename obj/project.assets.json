@@ -12079,11 +12079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k\\Desktop\\CSharp\\Portfolio1\\Portfolio1.csproj",
+      "projectUniqueName": "C:\\Users\\k\\Desktop\\CSharp\\PortfolioForClass\\Portfolio1.csproj",
       "projectName": "Portfolio1",
-      "projectPath": "C:\\Users\\k\\Desktop\\CSharp\\Portfolio1\\Portfolio1.csproj",
+      "projectPath": "C:\\Users\\k\\Desktop\\CSharp\\PortfolioForClass\\Portfolio1.csproj",
       "packagesPath": "C:\\Users\\k\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k\\Desktop\\CSharp\\Portfolio1\\obj\\",
+      "outputPath": "C:\\Users\\k\\Desktop\\CSharp\\PortfolioForClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
